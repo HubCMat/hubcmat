@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhubcmat=self.webpackChunkhubcmat||[]).push([[9331],{3989:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/hubcmat/en/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

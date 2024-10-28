@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhubcmat=self.webpackChunkhubcmat||[]).push([[1903],{1912:t=>{t.exports=JSON.parse('{"blogBasePath":"/hubcmat/blog","blogTitle":"Blog","authorsListPath":"/hubcmat/blog/authors"}')}}]);
